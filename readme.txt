@@ -5,7 +5,7 @@ To run the textgame:
 	"gamex.txt" will be your game file of choice
 
 To run the GUI game:
-	in console do: python3 rushhourgui.py gamex.txt
+	in console do: python3 rushhour_gui.py gamex.txt
 	"gamex.txt" will be your game file of choice
 
 How to play:
